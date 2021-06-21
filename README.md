@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=dvargas42)
 
 ## 💇🏼 About me
-I am Daniel Vargas and I am a Web Developer focused on JavaScript and React technologies.
+I am Daniel Vargas and Web Developer focused on JavaScript and React technologies.
 
 - 💬 Ask me about **JavaScript, HTML, CSS, ReactJS, React Native, NextJS and NodeJS**
 - 🎓 Federal Fluminense University (2018 - 2020)
