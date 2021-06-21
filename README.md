@@ -37,7 +37,7 @@ I am Daniel Vargas and Web Developer focused on JavaScript and React technologie
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvargas42&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvargas42&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvargas42&layout=compact&theme=dark)
 
 ### 📫 How to reach me
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-santos-040983ab/)
